@@ -146,15 +146,3 @@ flowchart TD
 Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
 
 ---
-
-## 🛡️ Security
-
-- **No credentials or secrets are stored in the repository.**
-- All sensitive files and notebooks are gitignored.
-- Use environment variables or GitHub secrets for all cloud and database credentials.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. 
